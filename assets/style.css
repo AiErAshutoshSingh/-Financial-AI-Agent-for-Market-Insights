@@ -1,0 +1,22 @@
+ .main {
+    padding-top: 1rem;
+}
+
+.chat-container {
+    border-radius: 15px;
+}
+
+.stButton button {
+    width: 100%;
+    border-radius: 10px;
+    height: 45px;
+}
+
+.stTextInput input {
+    border-radius: 10px;
+}
+
+.metric-card {
+    padding: 15px;
+    border-radius: 12px;
+}
